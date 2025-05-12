@@ -27,13 +27,7 @@ interface ComponentProps {
 
 function Component({ active, size }: ComponentProps) {
   return (
-    <div
-      className={classNames(
-        styles.button,
-        active && styles.active,
-        styles[size]
-      )}
-    />
+    <div className={classNames(styles.button, active && styles.active, styles[size])} />
   );
 }
 ```
