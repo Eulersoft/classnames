@@ -4,7 +4,6 @@
   "description": "A utility function that merges multiple class names into a single string, filtering out falsy values.",
   "author": "Steve Meredith <7037113+Steveeeie@users.noreply.github.com>",
   "license": "ISC",
-  "private": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Eulersoft/classnames.git"
