@@ -1,3 +1,5 @@
+[![Node.js Package](https://github.com/Eulersoft/classnames/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/Eulersoft/classnames/actions/workflows/npm-publish.yml)
+
 # @eulersoft/classnames
 
 A lightweight utility function that merges multiple class names into a single string, filtering out any falsy values.
