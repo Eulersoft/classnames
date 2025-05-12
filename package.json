@@ -1,6 +1,6 @@
 {
   "name": "@eulersoft/classnames",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility function that merges multiple class names into a single string, filtering out falsy values.",
   "author": "Steve Meredith <7037113+Steveeeie@users.noreply.github.com>",
   "license": "ISC",
